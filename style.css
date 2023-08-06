@@ -1,0 +1,66 @@
+/* External */
+body {
+    /* pixel */
+    font-family: Montserrat, sans-serif;    
+    background-color:rgb(238, 238, 209);
+    font-size: 20px;
+    font-weight: normal;
+}
+h1 {
+        /* background */
+    background-image:url(https://htmlcss.fullstack.edu.vn/assets/f8_icon.png);
+}
+.box1 {
+    width: 10000px;
+    height:80px ;
+    background-color: #dc1024;
+
+}
+.lop {
+background-color:#9f3a47 ; 
+/* space */
+margin-top: 10px;
+margin-left: 20px ;  
+border: solid 3px yellow;
+border-radius: 50%;
+height: 50px;
+width:  50px;
+
+}
+a {
+    /*  haven't underline 'a' card */
+    text-decoration: none;
+}
+h2 {
+    /* underline */
+    text-decoration: underline;
+}
+.box2 {
+    width: 1000px;
+    height:200px;
+    background-color: #4674ab;
+}
+/* button Home */
+h4 {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 8px 16px;
+    border: 2px solid #000;
+    border-radius: 999px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    transition: ease .25s;
+}
+h4:hover {
+    color: #fff;
+    background-color: #000;
+}
+/* margin-top: 16px;
+padding: 8px 16px;
+border: 2px solid #000;
+border-radius: 999px;
+color: #000;
+text-decoration: none;
+font-weight: 600;
+transition: ease .25s; */
